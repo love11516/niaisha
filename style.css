@@ -1,10 +1,24 @@
-h1{
-	color:#80bfff;
-	text-align: center;
+h6{
+	color:#380bff;
+	text-align:center;
+	font-size:45px;
 }
 p{
-  font-size:10px;
+  font-size:30px;
+  color:#80bfff;
 }
 body{
-	background-color:#ff1aff;
+	background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLhu0J2lNTLQgGC9A_UsEtAjHI6XibMiO47MmuDStvjhIPCoxf");
 }
+
+h1{
+	color:#80bfff;
+	font-size:35px;
+
+}
+h3{
+	 font-size:35px;
+	 color:#80bfff;
+}
+
+
